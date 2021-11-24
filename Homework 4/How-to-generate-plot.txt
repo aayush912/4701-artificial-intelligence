@@ -1,0 +1,4 @@
+1. Run the Perceptron code - pla.py
+2. Open plot.py
+3. Change the weights in "visualize_scatter()" (line 143) to the ones you obtained by running your PLA. These are the weights in the last line of output1.txt.
+4. Run plot.py as python3 plot.py data1.csv
