@@ -6,7 +6,7 @@ Semester - Fall 2021 <br />
 
 <br />
 
-Project 1: Basics of Python - Factorials, List Manipulation, Set Manipulation, Matrices, Graphs, Heaps <br />
-Project 2: Search Algorithms on 8-Puzzle Game - BFS, DFS, A* Search <br />
-Project 3: Sudoku Solver - Backtracking using MRV Heuristics and Forward Checking <br />
-Project 4: Machine Learning - Perceptron Algorithm and Linear Regression
+Assignment 1: Basics of Python - Factorials, List Manipulation, Set Manipulation, Matrices, Graphs, Heaps <br />
+Assignment 2: Search Algorithms on 8-Puzzle Game - BFS, DFS, A* Search <br />
+Assignment 3: Sudoku Solver - Backtracking using MRV Heuristics and Forward Checking <br />
+Assignment 4: Machine Learning - Perceptron Algorithm and Linear Regression
