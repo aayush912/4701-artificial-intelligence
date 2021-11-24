@@ -1,0 +1,5 @@
+Boards Solved: 400
+Minimum Runtime: 0.01084589958190918
+Maximum Runtime: 0.646845817565918
+Mean Runtime: 0.06548080682754516
+Standard Deviation: 0.07914773049815998
